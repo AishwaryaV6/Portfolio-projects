@@ -12,4 +12,4 @@ Explore and categorize content based on specific criteria and keywords.
 Dataset
 The data for this project is sourced from the Kaggle dataset:
 
-!Dataset Link:(https://github.com/AishwaryaV6/Portfolio-projects/blob/main/netflix_titles.csv)
+!Dataset Link: [Dataset] (https://github.com/AishwaryaV6/Portfolio-projects/blob/main/netflix_titles.csv)
