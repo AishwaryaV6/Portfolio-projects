@@ -14,7 +14,9 @@ The data for this project is sourced from the Kaggle dataset:
 
 Dataset Link: [Dataset] (https://github.com/AishwaryaV6/Portfolio-projects/blob/main/netflix_titles.csv)
 
-Schema
+SCHEMA
+
+
 DROP TABLE IF EXISTS netflix;
 CREATE TABLE netflix
 (
@@ -171,7 +173,7 @@ release_year > (extract (year from current_date)) -  10 ;
 
 
 
---15 Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
+--16 Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
 --the description field. Label content containing these keywords as 'Bad' and all other 
 --content as 'Good'. Count how many items fall into each category.
 
@@ -193,7 +195,7 @@ from category_table
 group by 2;
 
 
-Findings and Conclusion
+FINDINGS AND CONCLUSIONS 
 
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
 Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
