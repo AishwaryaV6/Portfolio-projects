@@ -23,7 +23,7 @@ These KPS are found using the measures with the help of DAX
 CONCLUSION:-
 
 
--Months in which target is achieved 
+- Months in which target is achieved 
 - Team based evaluation of performance for the year
 
    
